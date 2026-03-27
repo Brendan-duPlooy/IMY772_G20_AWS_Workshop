@@ -1,8 +1,8 @@
 # IMY772_G20_AWS_Workshop
 
 ## Team Members
-- Name 1
-- Name 2
+- Louise
+- BRENDAN
 
 ## Project Description
 Short explanation of system.
