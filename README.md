@@ -2,7 +2,7 @@
 
 ## Team Members
 - Louise
-- BRENDAN
+- Brendan
 
 ## Project Description
 Short explanation of system.
