@@ -1,5 +1,1 @@
-ooooooooooooooooooo
-ooooooooooooooooooo
-ooooooooooooooooooo
-ooooooooooooooooooo
-ooooooooooooooooooo
+Some func requirements NEW
