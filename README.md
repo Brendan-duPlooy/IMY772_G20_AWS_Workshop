@@ -9,7 +9,7 @@
 ## Project Description
 This project involves the development of an online hexadecimal calculator application, designed and implemented using the Test-Driven Development (TDD) approach.  
 
-The calculator allows users to perform basic arithmetic operations—addition, subtraction, multiplication, and division—on hexadecimal numbers. The system enforces strict input and output constraints to ensure correctness and consistency.  
+The calculator allows users to perform basic arithmetic operations - addition, subtraction, multiplication, and division - on hexadecimal numbers. The system enforces strict input and output constraints to ensure correctness and consistency.  
 
 As part of the IMY 772 AWS Workshop, this project is structured as an online course package, where each stage of development is demonstrated through a combination of a GitHub repository and instructional videos. The project will progressively evolve from defining requirements, to implementing and testing functionality, to deploying the final application using cloud technologies.
 
