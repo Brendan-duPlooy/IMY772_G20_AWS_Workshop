@@ -72,8 +72,8 @@ This project follows the **Test-Driven Development (TDD)** methodology:
   - requirements.md
 - src/
 - tests/
-  - .github/
-    - workflows/
+- .github/
+  - workflows/
 
 ---
 
