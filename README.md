@@ -67,13 +67,13 @@ This project follows the **Test-Driven Development (TDD)** methodology:
 
 ## Project Structure
 /root
-├── README.md
-├── docs/
-│ └── requirements.md
-├── src/
-├── tests/
-└── .github/
-└── workflows/
+- README.md
+- docs/
+  - requirements.md
+- src/
+- tests/
+  - .github/
+    - workflows/
 
 ---
 
