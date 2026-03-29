@@ -1,12 +1,12 @@
 # IMY772_G20_AWS_Workshop
 
-## 👥 Team Members
+## Team Members
 - Louise  
 - Brendan  
 
 ---
 
-## 📌 Project Description
+## Project Description
 This project involves the development of an online hexadecimal calculator application, designed and implemented using the Test-Driven Development (TDD) approach.  
 
 The calculator allows users to perform basic arithmetic operations—addition, subtraction, multiplication, and division—on hexadecimal numbers. The system enforces strict input and output constraints to ensure correctness and consistency.  
@@ -15,7 +15,7 @@ As part of the IMY 772 AWS Workshop, this project is structured as an online cou
 
 ---
 
-## ☁️ AWS Services Used
+## AWS Services Used
 The following AWS services will be used in later stages of the project for deployment and scalability:
 
 - **Amazon S3** – for storing static files and assets  
@@ -24,7 +24,7 @@ The following AWS services will be used in later stages of the project for deplo
 
 ---
 
-## ⚙️ Functional Requirements (Summary)
+## Functional Requirements (Summary)
 
 The system must:
 
@@ -44,7 +44,7 @@ The system must:
 
 ---
 
-## 🌿 Branching Strategy
+## Branching Strategy
 To follow a structured development process, the repository is divided into branches corresponding to each section of the assignment:
 
 - `main` – final integrated application  
@@ -55,7 +55,7 @@ To follow a structured development process, the repository is divided into branc
 
 ---
 
-## 🧪 Development Approach
+## Development Approach
 This project follows the **Test-Driven Development (TDD)** methodology:
 
 1. Define functional requirements  
@@ -65,4 +65,19 @@ This project follows the **Test-Driven Development (TDD)** methodology:
 
 ---
 
-## 🎬 Project Structure
+## Project Structure
+/root
+├── README.md
+├── docs/
+│ └── requirements.md
+├── src/
+├── tests/
+└── .github/
+└── workflows/
+
+---
+
+## Notes
+This repository is part of an instructional course package. Each section is accompanied by short videos that explain the concepts and demonstrate implementation steps.
+
+The focus of this project is not only on building a working application, but also on clearly demonstrating understanding of development processes, testing strategies, and cloud deployment.
